@@ -1,4 +1,3 @@
--Opa
--iniciante em script Lua
--uso construct 3 pra criar jogos
--12 anos
+Hello. I am a begginer in front end. 
+
+yea
