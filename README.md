@@ -1,2 +1,1 @@
-Hello. I am a beginner in python and i know somethings in front end, i will post some codes that i made when i was bored...
-
+привет блять
